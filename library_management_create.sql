@@ -1,8 +1,6 @@
 /*
 Create tables for the library management database
-This works for MySQL. To transform it to other databases such as SQL Server, Oracle, or Postgres,
-you should be able to just change the data types to types recognised by the database.
-*/
+This works for MySQL. */
 
 CREATE TABLE reservation_status (
   id INT,
